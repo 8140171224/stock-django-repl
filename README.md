@@ -43,4 +43,4 @@ See Django documentation on how to setup a database: https://docs.djangoproject.
 
 # stock-django-repl
 # stock-django-repl
-@@
+@@d
