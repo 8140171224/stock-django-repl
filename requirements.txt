@@ -1,0 +1,10 @@
+django
+bs4
+numpy
+pandas
+keras
+scikit-learn
+pytorch
+tensorflow
+matplotlib
+plotly
